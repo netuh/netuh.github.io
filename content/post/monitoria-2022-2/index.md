@@ -37,6 +37,20 @@ O processo de seleção de monitoria que ocorre em duas etapas, prova escrita e 
 
 As disciplinas de **Algoritmo e Estrutura de Dados** e **Arquitetura de Computadores** terão as mesmas etapas mas acontecerá em momentos diferentes.
 
+## Selecionados
+
+A lista foi extraido do seguinte link: [Selecionados](http://www.uabj.ufrpe.br/sites/uabj.ufrpe.br/files/noticias/HomologacaoDasInscricoes-1506.pdf)
+
+### Estrutura de Dados e Algoritmos
+ * Izadora Freitas Oliveira
+ * José Yrikes De Oliveira Feitosa
+ * Matheus José Vasconcelos Calado
+ * Vinicius Alessandro Pereira de Oliveira
+
+### Arquitutura de Computadores
+ * Joana Beatriz Silva Brandão
+ * Matheus José Vasconcelos Calado
+
 ## Prova Prática
 
 Os candidatos têm a oportunidade de demonstrar suas habilidades práticas na disciplina. Essa etapa o candidato deve **selecionar** uma série de **exercícios** e devem ser **resolvidos** de forma como se estivesse **explicando** para uma turma de **alunos**. 
