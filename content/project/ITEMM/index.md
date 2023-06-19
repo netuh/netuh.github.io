@@ -1,6 +1,6 @@
 ---
-title: ITEMM - Projeto de Capacitação Tecnológica na Análise de Dados de Protótipos de Baterias Veiculares em Belo Jardim
-summary: Belo Jardim é uma região com uma forte presença industrial e agropecuária, sendo reconhecida historicamente por sua contribuição para a economia de Pernambuco. Entre as diversas indústrias presentes, destaca-se a maior planta de produção de baterias da América Latina, localizada em Belo Jardim, que conta com um instituto de pesquisa, o ITEMM. Um dos projetos em destaque nesse instituto é a eletrificação veicular, com foco no desenvolvimento de soluções inovadoras para as baterias de veículos elétricos. No entanto, os dados desse projeto apresentam falta de padronização, dificultando sua análise conjunta. Com o objetivo de superar esse desafio, o projeto visa capacitar os alunos em técnicas de tratamento e manipulação de dados, explorando os dados dos protótipos de baterias veiculares e propondo soluções para a uniformização dos dados, além de utilizar técnicas de estatística básica para a análise dos mesmos.
+title: ITEMM - Análise de Dados de Protótipos de Baterias Veiculares em Belo Jardim
+summary: Um dos projetos em destaque no ITEMM é a eletrificação veicular, com foco no desenvolvimento de soluções inovadoras para as baterias de veículos elétricos. O projeto visa capacitar os alunos em técnicas de tratamento e manipulação de dados, explorando os dados dos protótipos de baterias veiculares e propondo soluções para a uniformização dos dados, além de utilizar técnicas de estatística básica para a análise dos mesmos.
 tags:
   - Data Analytics
   - Projeto Extensão
