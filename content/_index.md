@@ -11,22 +11,22 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: Programming
-          description: 90%
-          icon: cloud-binary
-          icon_pack: fab
-        - name: AI
-          description: 40%
-          icon: chart-line
-          icon_pack: fas
-        - name: Internet of Things
-          description: 60%
-          icon: microchip-ai
-          icon_pack: fas
+  # - block: features
+  #   content:
+  #     title: Skills
+  #     items:
+  #       - name: Programming
+  #         description: 90%
+  #         icon: cloud-binary
+  #         icon_pack: fab
+  #       - name: AI
+  #         description: 40%
+  #         icon: chart-line
+  #         icon_pack: fas
+  #       - name: Internet of Things
+  #         description: 60%
+  #         icon: microchip-ai
+  #         icon_pack: fas
   - block: experience
     content:
       title: Experience
