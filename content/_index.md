@@ -170,12 +170,11 @@ sections:
   #     columns: '2'
   #     view: card
   - block: collection
-    content:
-      title: Publications
+    id: publications
+    content:  
+      title: Publicações
       text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+        Publicações recentes.
       filters:
         folders:
           - publication
