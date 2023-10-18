@@ -14,5 +14,5 @@ Lore lipsum
 ## Aulas
 
 As aulas são:
-- [Análise Assintótica](/course-ead/aula-01)
-- [Notação O](/course-ead/aula-02)
+- [Análise Assintótica](/course-aed/aula-01)
+- [Notação O](/course-aed/aula-02)
