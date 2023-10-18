@@ -46,7 +46,7 @@ sections:
           location: Belo Jardim
           date_start: '2022-05-15'
           date_end: ''
-          description: Programação e IoT.
+          description: Professor de Engenharia de Software e Arquitetura de Computadores.
         - title: Professor Tempo Parcial
           company: Universidade Catótica de Pernambuco
           company_url: 'https://portal.unicap.br/'
