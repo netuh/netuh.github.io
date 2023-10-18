@@ -7,8 +7,6 @@ tags:
   - Enegnharia de Software
 date: "2023-06-19T00:00:00Z"
 
-# Optional external URL for project (replaces project detail page).
-external_link: https://ines.org.br/
 
 ---
 
