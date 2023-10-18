@@ -10,18 +10,18 @@ main:
   - name: Posts
     url: '#posts'
     weight: 20
+  - name: Cursos
+    url: '#courses'
+    weight: 30
   - name: Projetos
     url: '#projects'
-    weight: 30
-  # - name: Talks
-  #   url: '#talks'
-  #   weight: 40
+    weight: 40
   - name: Publicações
     url: '#publications'
-    weight: 40
+    weight: 50
   - name: Contato
     url: '#contact'
-    weight: 50
+    weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
