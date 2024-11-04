@@ -10,7 +10,7 @@ baseURL: 'https://netuh.github.io/' # Website URL
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: pt-br
+defaultContentLanguage: pt
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
