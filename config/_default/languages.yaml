@@ -8,6 +8,9 @@ en:
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
 
+pt:
+  languageCode: pt-br
+
 # Uncomment the lines below to configure your website in a second language.
 #zh:
 #  languageCode: zh-Hans
